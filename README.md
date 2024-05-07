@@ -137,15 +137,20 @@ Summary statistics of numerical_columns(count, mean, std. deviation, min., max.)
 <br>
 ![image](https://github.com/palak126/movie_reccos/assets/149436003/5121de45-e8c6-4de7-a578-2abb83562649)
 
-### Machine learning for predicting vote_average
+## Machine learning for predicting vote_average
 Train size: (278524, 3)
 Test size: (69631, 3)
 
 ##### Logistic regression 
-Accuracy: 0.5590182533641626
+before hyperparameter tuning: Accuracy: 0.5590182533641626<br>
+after hyperparameter tuning: Accuracy: 0.5590182533641626<br>
 
 ##### Decision Tree
-Accuracy: 0.5590182533641626
+before hyperparameter tuning: Accuracy: 0.5590182533641626<br>
+after hyperparameter tuning: Accuracy: 0.5878272608464621<br>
 
 ##### Random Forest 
-Accuracy: 0.5590182533641626
+before hyperparameter tuning: Accuracy: 0.5590182533641626<br>
+after hyperparameter tuning: Accuracy: <br>
+
+##### 
